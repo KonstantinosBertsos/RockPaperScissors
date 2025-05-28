@@ -1,0 +1,30 @@
+
+button{
+    color: #e5e7eb;
+    background-color: #3882f6;
+    border-radius: 8px;
+    border: none;
+    padding: 8px 32px;
+    font-weight: 900;
+    height: 200px;
+    width: 150px;
+}
+#btncontainer{
+    display: flex;
+    gap: 145px;
+    height: 100vh;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+}
+.centerDiv{
+    display: flex;
+    justify-content: center;  /* horizontal center */
+    align-items: center;      /* vertical center */
+}
+#display{
+    width: 700px;
+    border: 3px solid #3882f6;
+    border-radius: 8px;
+   
+}
